@@ -1,10 +1,10 @@
 {
-  "agent_id": "e9b920e6-ea22-4d23-ad72-f70338978619",
+  "agent_id": "8ca81b24-9c74-4710-8493-9792124f63b5",
   "name": "Anna Travel Agent",
   "service_type": "travel",
   "description": "Offer best travel arrangements",
   "posted_price_usd": "3.00",
   "wallet_address": "",
-  "token_address": "",
+  "token_address": "0xDA2fA1F812E0d63F99c7490534079B345Ca609Fc",
   "token_symbol": "TWOB"
 }
